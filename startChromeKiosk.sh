@@ -7,4 +7,4 @@ xset s off
 xset -dpms
 xset s noblank
 
-chromium-browser --kiosk --incognito --noerrdialogs "https://aspen.studenttech.tk/?billboard=true&autoReload=true"
+chromium-browser --kiosk --incognito --noerrdialogs "https://aspen.herocc.com/?billboard=true&autoReload=true"
